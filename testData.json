@@ -1,0 +1,22 @@
+{
+	"books" : [
+    {
+		"bookId": 1,
+		"bookTitle": "Hemlet",
+		"authorName": "William Shkespear",
+		"publisherName": "Donaldson"
+		},
+		{
+		"bookId": 2,
+		"bookTitle": "Diary of Young Girl",
+		"authorName": "Annie Frank",
+		"publisherName": "McGelon"
+		},
+		{
+		"bookId": 3,
+		"bookTitle": "Half Girlfriend",
+		"authorName": "Chetan Bhagat",
+		"publisherName": "Penguin"
+		}
+	]
+}

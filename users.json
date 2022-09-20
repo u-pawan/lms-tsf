@@ -1,0 +1,32 @@
+{
+	"admins": [
+    {
+		  "userName": "Bhuwan Chauhan",
+		  "password": "KC"
+		},
+		{
+		  "userName": "Aditya Yadav",
+		  "password": "SJ"
+		}
+  ],
+  "librarians": [
+    {
+      "userName": "Aarav Chauhan",
+      "password": "NJ"
+    },
+    {
+      "userName": "Shivesh Shivam",
+      "password": "AT"
+    }
+  ],
+  "borrowers": [
+    {
+      "cardNum": "0201CSE074",
+      "password": "b1"
+    },
+    {
+      "cardNum": "0201CSE048",
+      "password": "d3"
+    }
+  ]
+}
